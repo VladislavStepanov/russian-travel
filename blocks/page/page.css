@@ -1,0 +1,15 @@
+.page{      
+  margin:0;
+  background-color: #2A2C2F;
+  min-width: 320px;
+  padding-bottom: 24px;
+  padding-top: 28px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media screen and (max-width: 767px) {
+  .page {
+    padding-top: 16px;
+  }
+}

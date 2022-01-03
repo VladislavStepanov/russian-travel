@@ -1,0 +1,28 @@
+.place__website_link {
+  max-width: 456px;
+  min-height: 22px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+}
+
+.place__website_link:hover {
+  opacity: 0.8;
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .place__website_link {
+    max-width: 352px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__website_link {
+    max-width: 288px;
+  }
+}
