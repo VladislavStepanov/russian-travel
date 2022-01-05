@@ -4,6 +4,7 @@
   min-width: 320px;
   padding-bottom: 24px;
   padding-top: 28px;
+  font-family: "Inter", Arial, sans-serif;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }

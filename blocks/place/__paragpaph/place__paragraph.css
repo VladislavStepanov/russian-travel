@@ -5,15 +5,14 @@
   margin-bottom: 26px;
   max-width: 484px;
   min-height: 116px;
-  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-  line-height: 26px;
+  line-height: 29px;
   color: #FFFFFF;
 }
 
-.paragraph:last-of-type {
+.place__paragraph:last-of-type {
   margin-bottom: 0;
 } 
 
